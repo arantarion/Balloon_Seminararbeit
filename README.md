@@ -1,0 +1,46 @@
+# Balloon Hashing Seminararbeit
+My paper and presentation on Balloon Hashing. 
+
+# More Info Material
+A collection of material about KDF and other hash functions. Mainly used for a presentation given on balloon hashing in a seminar at FernUniversität in Hagen in 2023.
+
+## Standards
+| Hashfunction 	| Link                                                                                            	| Link 2                                                                      	| Link 3                             	| 
+|--------------	|-------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------	|------------------------------------	|
+| Argon        	| https://orbilu.uni.lu/bitstream/10993/19901/1/Argon.pdf                                         	|                                                                             	|                                    	|               	
+| Argon2       	| https://orbilu.uni.lu/bitstream/10993/19901/1/Argon.pdf                                         	| https://www.password-hashing.net/argon2-specs.pdf                           	|                                    	|               	
+| Balloon      	| https://eprint.iacr.org/2016/027.pdf                                                            	|                                                                             	|                                    	|               	
+| Bcyrpt       	| https://www.usenix.org/legacy/events/usenix99/full_papers/provos/provos.pdf                     	| https://www.usenix.org/legacy/events/usenix99/provos/provos_html/node5.html 	|                                    	|               	
+| BLAKE        	| https://www.aumasson.jp/blake/blake.pdf                                                         	|                                                                             	|                                    	|               	
+| BLAKE2       	| https://www.blake2.net/blake2.pdf                                                               	| https://www.rfc-editor.org/rfc/rfc7693                                      	| https://www.blake2.net/blake2x.pdf 	|               	
+| BLAKE3       	| https://raw.githubusercontent.com/BLAKE3-team/BLAKE3-specs/master/blake3.pdf                    	|                                                                             	|                                    	|               	
+| Catena       	| https://www.password-hashing.net/submissions/specs/Catena-v5.pdf                                	|                                                                             	|                                    	|               	
+| HAVAL        	| https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2096&context=infopapers 	|                                                                             	|                                    	|               	
+| MD4          	| https://www.rfc-editor.org/rfc/rfc1320.html                                                     	|                                                                             	|                                    	|               	
+| MD5          	| https://www.ietf.org/rfc/rfc1321.txt                                                            	|                                                                             	|                                    	|               	
+| MD6          	| https://people.csail.mit.edu/rivest/pubs/RABCx08.pdf                                            	|                                                                             	|                                    	|               	
+| PBKDF2       	| https://www.ietf.org/rfc/rfc2898.txt                                                            	|                                                                             	|                                    	|               	
+| RIPEMD-160   	| https://link.springer.com/content/pdf/10.1007/3-540-60865-6_44.pdf                              	|                                                                             	|                                    	|               	
+| Scrypt       	| https://www.rfc-editor.org/rfc/rfc7914.html                                                     	| https://www.bsdcan.org/2009/schedule/attachments/87_scrypt.pdf              	|                                    	|               	
+| SHA1         	| https://www.rfc-editor.org/rfc/pdfrfc/rfc3174.txt.pdf                                           	| https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf                  	|                                    	|               	
+| SHA2         	| https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf                                      	|                                                                             	|                                    	|               	
+| SHA3         	| https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf                                        	|                                                                             	|                                    	|               	
+| Whirlpool    	| https://www.researchgate.net/publication/228610491_The_Whirlpool_hashing_function               	|                                                                             	|                                    	|               	
+
+
+<br>
+
+## Government Material and Recommendations
+| Government   Resources and Recommendations                                                                                   	| Link                                                                                                                                        	|
+|------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------	|
+| BSI TR-02102-1 -   Kryptographische Verfahren: Empfehlungen und Schlüssellängen                                              	| https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/TechnischeRichtlinien/TR02102/BSI-TR-02102.pdf?__blob=publicationFile&v=6 	|                	
+| FIPS 140-2 - Security   Requirements for Cryptographic Modules                                                               	| https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf                                                                                  	|                	
+| FIPS-202 - SHA-3 Standard:   Permutation-Based Hash and Extendable-Output Functions                                          	| https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf                                                                                    	|                	
+| IETF Best practices for   password hashing and storage                                                                       	| https://datatracker.ietf.org/doc/id/draft-whited-kitten-password-storage-02.html#name-conventions-and-terminology                           	|                	
+| NIST Special Publication   800-107 Revision 1 - Recommendation for Applications Using Approved Hash   Algorithms             	| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-107r1.pdf                                                             	|                	
+| NIST Special Publication   800-108r1 - Recommendation for Key Derivation Using Pseudorandom Functions                        	| https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-108r1.pdf                                                                 	|                	
+| NIST Special Publication   800-133r2 -Recommendation for Cryptographic Key Generation                                        	| https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r2.pdf                                                                 	|                	
+| NIST Special Publication   800-135, Revision 1 - Recommendation for Existing Application-Specific Key   Derivation Functions 	| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-135r1.pdf                                                             	|                	
+| NIST Special Publication   800-209 - Security Guidelines for Storage Infrastructure                                          	| https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-209.pdf                                                                   	|                	
+| NIST Special Publication   800-63B - Digital Identity Guidelines - Authentication and Lifecycle   Management                 	| https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-63b.pdf                                                                   	|                	
+| OWASP Password Storage Cheat   Sheet                                                                                         	| https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html                                                            	|                	
